@@ -1,14 +1,14 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
+title: Personal Page
+name: Xingbin
 subtitle: Financial Economist
 email: paul.soto@upf.edu
 description: >
   Financial Economist
 baseurl: ""
 url: "https://pesoto.github.io/"
-github_username:  pesoto
+github_username:  morty9527
 disqus_baseurl: "https://pesoto.github.io/"
 disqus_shortname: https-pesoto-github-io
 permalink: :title
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Xingbin"
 
 
 
