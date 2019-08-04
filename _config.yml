@@ -7,10 +7,10 @@ email: paul.soto@upf.edu
 description: >
   Financial Economist
 baseurl: ""
-url: "https://pesoto.github.io/"
+url: "https://morty9527.github.io/"
 github_username:  morty9527
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+disqus_baseurl: "https://morty9527.github.io/"
+disqus_shortname: https-morty9527-github-io
 permalink: :title
 
 # Build settings
@@ -39,14 +39,14 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
-    url: https://github.com/pesoto
+    username: morty9527
+    url: https://github.com/morty9527
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
     username: Paul E. Soto
-    url: https://linkedin.com/pesoto
+    url: https://linkedin.com
     desc: Connect with me on LinkedIn
     share: true
