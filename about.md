@@ -15,4 +15,6 @@ permalink: /about/
 <br>
 <a href="https://www.baidu.com" target="_self">《邢斌语录》</a>
 <br>
+<a href="https://www.baidu.com" target="_self">《邢斌诺贝尔奖获奖感言》</a>
+<br>
 
